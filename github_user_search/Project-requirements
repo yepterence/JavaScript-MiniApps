@@ -1,0 +1,3 @@
+Finds users by username and list their repositories, and other properties of that profile. The CSS used to design this was BootstrapSwatch. 
+Utilizes FetchAPI, keydown/up events, event listening, alert banners. 
+Needs Github API/Secret 
